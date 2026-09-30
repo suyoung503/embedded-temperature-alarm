@@ -1,0 +1,12 @@
+.DS_Store
+*.elf
+*.hex
+*.o
+*.map
+*.lss
+*.eep
+*.zip
+*.docx
+*.mp4
+Debug/
+Release/
